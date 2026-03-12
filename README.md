@@ -126,7 +126,7 @@ STRMAPI -> creates a new string
 !=
 STRITERI -> modifies the original string
 
-## PUTCHAR_FD
+### PUTCHAR_FD
 Writes a single character c to a file descriptor fd.
 
 ### Standard descriptors:
@@ -163,5 +163,5 @@ Counts the number of nodes in the list.
 ### LSTLAST
 Returns the last node of the list.
 
-## LSTDELONE
+### LSTDELONE
 Frees the node's content using the del function
