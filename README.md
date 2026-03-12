@@ -3,11 +3,7 @@ _Score : 125/100_
 
 # Libft
 
----
-
 To see my entire 42 curriculum : [click here](https://github.com/naha7777)
-
----
 
 ## Purpose
 In this project we will build a custom C library to reuse it in other projects.\
