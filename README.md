@@ -1,10 +1,8 @@
 _Project finished on november fourth 2025._\
-_Score : 125/100_
-
-# Libft
-
+_Score : 125/100_\
 To see my entire 42 curriculum : [click here](https://github.com/naha7777)
 
+# Libft
 ## Purpose
 In this project we will build a custom C library to reuse it in other projects.\
 We must rewrite functions, learn how to create a `Makefile` to automate compilation and generate a `static library` : `libft.a` and using header files `.h`.
